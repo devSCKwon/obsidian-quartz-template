@@ -2,6 +2,6 @@
 title: My GitHub Pages Notebook!
 ---
 
-Hello world!
+Hello world! SCKwon!
 
-Write some words here!
+devSCKwon의 문서페이지 입니다.
