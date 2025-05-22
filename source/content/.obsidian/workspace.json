@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_세진 사이버침해 수작업 생산전환 절차서"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00_세진 사이버침해 수작업 생산전환 절차서 의 백링크"
+              "title": "index 의 백링크"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "00_세진 사이버침해 수작업 생산전환 절차서 의 나가는 링크"
+              "title": "index 의 나가는 링크"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00_세진 사이버침해 수작업 생산전환 절차서 의 개요"
+              "title": "index 의 개요"
             }
           }
         ]
@@ -186,11 +186,12 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "category-folder/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
+    "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
     "category-folder/attachments/Pasted image 20250409161730.png",
     "category-folder/attachments/Pasted image 20250409145103.png",
     "category-folder/attachments",
     "category-folder/Some note.md",
-    "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
     "category-folder/index.md",
     "index.md",
     "category-folder"
