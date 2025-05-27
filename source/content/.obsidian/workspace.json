@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/10_문서관리 절차서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "10_문서관리 절차서"
             }
           }
         ],
@@ -186,14 +186,15 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "category-folder/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
     "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+    "category-folder/10_문서관리 절차서.md",
+    "index.md",
+    "category-folder/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
     "category-folder/attachments/Pasted image 20250409161730.png",
     "category-folder/attachments/Pasted image 20250409145103.png",
     "category-folder/attachments",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }
