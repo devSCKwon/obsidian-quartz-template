@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "source/content/.obsidian/workspace.json",
+                "file": "source/content/category-folder/10_문서관리 절차서.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (10_문서관리 절차서)"
             }
           }
         ]
@@ -180,14 +180,14 @@
   },
   "active": "84fc630ba64957d6",
   "lastOpenFiles": [
-    "category-folder/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
+    "category-folder/10_문서관리 절차서.md",
     "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+    "category-folder/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
     "category-folder/04_수작업 자재 조달 계획 및 관리 절차서.md",
     "category-folder/03_수작업 물류 계획 및 관리 절차서.md",
     "category-folder/02_수작업 생산계획 관리 절차서.md",
     "category-folder/01_수작업 고객사 생산계획 취득 절차서.md",
     "564810.md",
-    "category-folder/10_문서관리 절차서.md",
     "category-folder/index.md",
     "category-folder/attachments/영업비밀 등급분류 가이드.pdf",
     "category-folder/attachments/영업비밀 등급분류 가이드_compressed.pdf",
