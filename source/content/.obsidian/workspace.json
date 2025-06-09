@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af4219a7b1ba7e10",
+        "id": "74b9552d85a86f36",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5e8a520269a487",
+            "id": "84fc630ba64957d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "category-folder/10_문서관리 절차서.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/.obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "10_문서관리 절차서"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -150,13 +149,23 @@
               "icon": "lucide-list",
               "title": "index 의 개요"
             }
+          },
+          {
+            "id": "729606d47233788b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +178,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d5e8a520269a487",
+  "active": "84fc630ba64957d6",
   "lastOpenFiles": [
-    "category-folder/index.md",
+    "category-folder/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
+    "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
+    "category-folder/04_수작업 자재 조달 계획 및 관리 절차서.md",
+    "category-folder/03_수작업 물류 계획 및 관리 절차서.md",
+    "category-folder/02_수작업 생산계획 관리 절차서.md",
+    "category-folder/01_수작업 고객사 생산계획 취득 절차서.md",
+    "564810.md",
     "category-folder/10_문서관리 절차서.md",
+    "category-folder/index.md",
     "category-folder/attachments/영업비밀 등급분류 가이드.pdf",
     "category-folder/attachments/영업비밀 등급분류 가이드_compressed.pdf",
     "category-folder/attachments/영업비밀 등급분류 가이드_compressed.pdf.crdownload",
-    "category-folder/00_세진 사이버침해 수작업 생산전환 절차서.md",
     "category-folder/attachments/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
     "category-folder/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용.pdf",
     "category-folder/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
