@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "category-folder/10_정보자산위험관리/00_01. 정보 자산 위험 관리 절차서 - 표지.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "00_01. 정보 자산 위험 관리 절차서 - 표지"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "category-folder/10_정보자산위험관리/00_01. 정보 자산 위험 관리 절차서 - 표지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 의 나가는 링크"
+              "title": "00_01. 정보 자산 위험 관리 절차서 - 표지 의 나가는 링크"
             }
           },
           {
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84fc630ba64957d6",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "category-folder/00_01. 정보 자산 위험 관리 절차서 - 표지.md",
+    "category-folder/10_정보자산위험관리/01 정보 자산 위험 관리 절차 표지.md",
+    "category-folder/10_정보자산위험관리/00_01. 정보 자산 위험 관리 절차서 - 표지.md",
     "category-folder/Some note.md",
+    "category-folder/10_정보자산위험관리",
     "category-folder/index.md",
     "category-folder/10_문서관리 절차서.md",
     "category-folder/01_수작업 고객사 생산계획 취득 절차서.md",
