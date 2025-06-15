@@ -10,12 +10,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.4rem;
-  margin-top: 1.9rem;
-  margin-bottom: 1rem;
-
-  ~ p,
-  ~ blockquote {
+  + * {
     padding-left: 1.5rem;
+  }
+}
+
+h4 {
+  + * {
+    padding-left: 2.0rem;
   }
 }
