@@ -564,28 +564,3 @@
         display: none;
     }
 }
-
-/* custom indentation for headings */
-h1 {
-  margin-left: 0;
-}
-
-h2 {
-  margin-left: 1rem;
-}
-
-h3 {
-  margin-left: 2rem;
-}
-
-h4 {
-  margin-left: 3rem;
-}
-
-h5 {
-  margin-left: 4rem;
-}
-
-h6 {
-  margin-left: 5rem;
-}
