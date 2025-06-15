@@ -11,14 +11,13 @@
             "id": "84fc630ba64957d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "category-folder/10_정보자산위험관리/03_정보자산위험관리절차서_본문.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/.obsidian/snippets/style.css",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "03_정보자산위험관리절차서_본문"
+              "icon": "git-pull-request",
+              "title": "Diff View (style.css)"
             }
           }
         ]
@@ -179,11 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "84fc630ba64957d6",
   "lastOpenFiles": [
-    "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
-    "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차 1.md",
     "category-folder/10_정보자산위험관리/03_정보자산위험관리절차서_본문.md",
+    "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
     "category-folder/10_정보자산위험관리/01_정보자산위험관리절차서_표지.md",
     "category-folder/10_정보자산위험관리/13_통제방안선정가이드.md",
     "category-folder/10_정보자산위험관리/12_위험분석및평가작성가이드.md",
