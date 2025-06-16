@@ -11,14 +11,10 @@
             "id": "48525672cc53a038",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/10_정보자산위험관리/13_통제방안선정가이드.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13_통제방안선정가이드"
+              "title": "새 탭"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/10_정보자산위험관리/13_통제방안선정가이드.md",
+                "file": "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "13_통제방안선정가이드 의 개요"
+              "title": "02_정보자산위험관리절차서_목차 의 개요"
             }
           },
           {
@@ -179,8 +175,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48525672cc53a038",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
+    "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
+    "99_Temp/attachments/영업비밀 등급분류 가이드.pdf",
+    "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용.pdf",
+    "99_Temp/attachments",
+    "99_Temp/10_문서관리 절차서.md",
+    "99_Temp",
+    "20_수작업생산전환/attachments/Pasted image 20250409161730.png",
+    "20_수작업생산전환/attachments/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
+    "20_수작업생산전환/attachments/Pasted image 20250409145103.png",
+    "20_수작업생산전환/attachments",
+    "20_수작업생산전환/00_세진 사이버침해 수작업 생산전환 절차서.md",
+    "20_수작업생산전환/01_수작업 고객사 생산계획 취득 절차서.md",
+    "20_수작업생산전환/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
+    "20_수작업생산전환/04_수작업 자재 조달 계획 및 관리 절차서.md",
+    "20_수작업생산전환/02_수작업 생산계획 관리 절차서.md",
+    "20_수작업생산전환/03_수작업 물류 계획 및 관리 절차서.md",
+    "20_수작업생산전환",
+    "10_정보자산위험관리/attachments/04-자산분류기준표.csv",
+    "10_정보자산위험관리/attachments",
+    "10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
+    "10_정보자산위험관리/03_정보자산위험관리절차서_본문.md",
+    "10_정보자산위험관리/11_문서유형분류중요도평가가이드.md",
+    "10_정보자산위험관리/13_통제방안선정가이드.md",
+    "10_정보자산위험관리/01_정보자산위험관리절차서_표지.md",
+    "10_정보자산위험관리/12_위험분석및평가작성가이드.md",
+    "10_정보자산위험관리",
+    "category-folder/10_정보자산위험관리/13_통제방안선정가이드.md",
     "category-folder/10_정보자산위험관리/11_문서유형분류중요도평가가이드.md",
     "category-folder/10_정보자산위험관리/12_위험분석및평가작성가이드.md",
     "category-folder/10_정보자산위험관리/01_정보자산위험관리절차서_표지.md",
@@ -189,37 +213,15 @@
     "category-folder/10_정보자산위험관리/01_정보자산위험관리절차서_표지 1.md",
     "category-folder/10_정보자산위험관리/03_정보자산위험관리절차서_본문 1.md",
     "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차 1.md",
-    "category-folder/10_정보자산위험관리/attachments/04-자산분류기준표.csv",
-    "category-folder/10_정보자산위험관리/attachments",
     "category-folder/99_Temp/10_문서관리 절차서.md",
     "category-folder/20_수작업생산전환/00_세진 사이버침해 수작업 생산전환 절차서.md",
-    "category-folder/99_Temp/attachments/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
-    "category-folder/20_수작업생산전환/attachments/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
     "category-folder/20_수작업생산전환/attachments/Pasted image 20250409145103.png",
     "category-folder/20_수작업생산전환/attachments/Pasted image 20250409161730.png",
-    "category-folder/20_수작업생산전환/attachments/영업비밀 등급분류 가이드.pdf",
-    "category-folder/99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용.pdf",
-    "category-folder/20_수작업생산전환/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용.pdf",
-    "category-folder/99_Temp/attachments/영업비밀 등급분류 가이드.pdf",
     "category-folder/99_Temp/attachments/Pasted image 20250409161730.png",
     "category-folder/99_Temp/attachments/Pasted image 20250409145103.png",
     "category-folder/99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
     "category-folder/99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
-    "category-folder/99_Temp/attachments",
     "category-folder/20_수작업생산전환/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
-    "category-folder/20_수작업생산전환/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md",
-    "category-folder/20_수작업생산전환",
-    "category-folder/10_정보자산위험관리/13_통제방안선정가이드.md",
-    "category-folder/10_정보자산위험관리/01 정보 자산 위험 관리 절차 표지.md",
-    "category-folder/10_정보자산위험관리/00_01. 정보 자산 위험 관리 절차서 - 표지.md",
-    "category-folder/20_수작업생산전환/01_수작업 고객사 생산계획 취득 절차서.md",
-    "category-folder/20_수작업생산전환/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
-    "category-folder/20_수작업생산전환/04_수작업 자재 조달 계획 및 관리 절차서.md",
-    "category-folder/20_수작업생산전환/03_수작업 물류 계획 및 관리 절차서.md",
-    "category-folder/20_수작업생산전환/02_수작업 생산계획 관리 절차서.md",
-    "564810.md"
+    "category-folder/Some note.md"
   ]
 }
