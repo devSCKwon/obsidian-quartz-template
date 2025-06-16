@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Temp/10_문서관리 절차서.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10_문서관리 절차서"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Temp/10_문서관리 절차서.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10_문서관리 절차서 의 개요"
+              "title": "index 의 개요"
             }
           },
           {
@@ -181,19 +181,19 @@
   },
   "active": "48525672cc53a038",
   "lastOpenFiles": [
+    "20_수작업생산전환/00_세진 사이버침해 수작업 생산전환 절차서.md",
+    "99_Temp/10_문서관리 절차서.md",
     "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
     "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
     "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
     "99_Temp/attachments/영업비밀 등급분류 가이드.pdf",
     "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용.pdf",
     "99_Temp/attachments",
-    "99_Temp/10_문서관리 절차서.md",
     "99_Temp",
     "20_수작업생산전환/attachments/Pasted image 20250409161730.png",
     "20_수작업생산전환/attachments/첨부3.수작업 생산 전환 절차 수립 가이드(참고).pdf",
     "20_수작업생산전환/attachments/Pasted image 20250409145103.png",
     "20_수작업생산전환/attachments",
-    "20_수작업생산전환/00_세진 사이버침해 수작업 생산전환 절차서.md",
     "20_수작업생산전환/01_수작업 고객사 생산계획 취득 절차서.md",
     "20_수작업생산전환/05_수작업 생산 계획 현장 전개 및 관리 절차서.md",
     "20_수작업생산전환/04_수작업 자재 조달 계획 및 관리 절차서.md",
