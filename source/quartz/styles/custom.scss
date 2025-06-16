@@ -37,10 +37,10 @@ article {
 
   // article 내의 모든 figure에 적용하고 싶을 경우
   figure {
-    margin-left: 1.5rem;
+    margin-left: 1.5rem !important;
   }  
 }
 
 article ol {
-  margin-left: 0.5rem !important;
+  margin-left: 0.5rem;
 }
