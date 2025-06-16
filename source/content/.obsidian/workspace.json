@@ -11,10 +11,14 @@
             "id": "48525672cc53a038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99_Temp/10_문서관리 절차서.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "10_문서관리 절차서"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
+                "file": "99_Temp/10_문서관리 절차서.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_정보자산위험관리절차서_목차 의 개요"
+              "title": "10_문서관리 절차서 의 개요"
             }
           },
           {
@@ -175,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "48525672cc53a038",
   "lastOpenFiles": [
+    "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
     "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
     "99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
     "99_Temp/attachments/영업비밀 등급분류 가이드.pdf",
@@ -208,7 +213,6 @@
     "category-folder/10_정보자산위험관리/11_문서유형분류중요도평가가이드.md",
     "category-folder/10_정보자산위험관리/12_위험분석및평가작성가이드.md",
     "category-folder/10_정보자산위험관리/01_정보자산위험관리절차서_표지.md",
-    "category-folder/10_정보자산위험관리/02_정보자산위험관리절차서_목차.md",
     "category-folder/10_정보자산위험관리/03_정보자산위험관리절차서_본문.md",
     "category-folder/10_정보자산위험관리/01_정보자산위험관리절차서_표지 1.md",
     "category-folder/10_정보자산위험관리/03_정보자산위험관리절차서_본문 1.md",
@@ -221,7 +225,6 @@
     "category-folder/99_Temp/attachments/Pasted image 20250409145103.png",
     "category-folder/99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page14.png",
     "category-folder/99_Temp/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
-    "category-folder/20_수작업생산전환/attachments/2. 정보자산 위험관리 절차 수립 가이드_배포용_page11.png",
     "category-folder/Some note.md"
   ]
 }
