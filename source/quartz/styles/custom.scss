@@ -8,10 +8,7 @@ article {
     margin-top: 1.9rem;
     margin-bottom: 1rem;
 
-    + p,
-    + blockquote,
-    + ul,
-    + ol {
+    + p {
       margin-left: 1rem;
     }
   }
@@ -20,11 +17,9 @@ article {
     font-size: 1.2rem;
     margin-top: 1.6rem;
     margin-bottom: 1rem;
+    margin-left: 1rem;
 
-    + p,
-    + blockquote,
-    + ul,
-    + ol {
+    + p {
       margin-left: 1.5rem;
     }
   }
@@ -33,11 +28,9 @@ article {
     font-size: 1.05rem;
     margin-top: 1.3rem;
     margin-bottom: 0.8rem;
+    margin-left: 1.5rem;
 
-    + p,
-    + blockquote,
-    + ul,
-    + ol {
+    + p {
       margin-left: 2rem;
     }
   }
