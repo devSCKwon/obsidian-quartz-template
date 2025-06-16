@@ -39,8 +39,8 @@ article {
   figure {
     margin-left: 1.5rem;
   }  
+}
 
-  ol {
-      margin-left: 0.5rem;
-  }
+article ol {
+  margin-left: 0.5rem !important;
 }
