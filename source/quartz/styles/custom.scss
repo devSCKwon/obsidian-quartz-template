@@ -8,7 +8,8 @@ article {
     margin-top: 1.9rem;
     margin-bottom: 1rem;
 
-    + p {
+    + p,
+    + figure {
       margin-left: 1rem;
     }
   }
@@ -19,7 +20,8 @@ article {
     margin-bottom: 1rem;
     margin-left: 1rem;
 
-    + p {
+    + p,
+    + figure {
       margin-left: 1.5rem;
     }
   }
@@ -32,6 +34,9 @@ article {
 
     + p {
       margin-left: 2rem;
+    }
+    + ol {
+      margin-left: 0.5rem;
     }
   }
 }
